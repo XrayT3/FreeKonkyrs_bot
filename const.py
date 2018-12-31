@@ -1,6 +1,6 @@
-token = "407571270:AAHfBWfgE8fjHFBoeiT_fuAZ5yR0kUiCBSw"
+token = ""
 admin_id = 211439710
-admin_id_1 = 373049956
+admin_id_1 = 
 welcome_msg = "\U0001F449 Разыгрываем 5000 рублей среди наших подписчиков.\n" \
               "\U0001F449 Итоги 15 сентября 2017г\n\n" \
               "\U00000031\U000020E3 Для участия необходимо подписаться на  канал @ebfoto https://t.me/ebfoto\n" \
